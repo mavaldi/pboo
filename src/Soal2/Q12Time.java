@@ -10,15 +10,16 @@ public class Q12Time
 
     public static void calculateDegree()
     {
-        float degree = 0;
-        float degreeHour = 0;
-        float degreeMinute = 0;
-        if(hour == 12)
-            hour = 0;
-        if(hour > 11)
-            hour -= 12;
+        int degreeHour = (hour * 360) / 12 + (minute * 360) / (12 * 60);
+        int degreeMinute = (minute * 360) / (60);
+        int degree = Math.abs(degreeHour - degreeMinute);
 
-        degree = Math.abs(degreeHour - degreeMinute);
+        if (degree < 0)
+            degree = degree + 360;
+
+        if (degree > 360)
+            degree = degree - 360;
+
         System.out.println("Result of " + time + " : " + degree + "°");
     }
 
