@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1648566623 source:c:\users\maval\onedrive\desktop\cpp\que\main.cpp
+	<map>
+	<cstdio>
+	<queue>
+	<algorithm>
+

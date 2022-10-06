@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650597761 source:c:\users\maval\onedrive\desktop\deque2\main.cpp
+	<deque>
+	<bits/stdc++.h>
+

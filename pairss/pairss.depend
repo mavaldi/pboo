@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652944596 source:c:\users\maval\onedrive\desktop\pairss\main.cpp
+	<cstdio>
+	<iostream>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649412187 source:c:\users\maval\onedrive\desktop\cpp\pq2\main.cpp
+	<cstdio>
+	<queue>
+
