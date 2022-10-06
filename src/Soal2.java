@@ -1,8 +1,6 @@
-package Soal2;
-
 import java.util.Scanner;
 
-public class Q12Time
+public class Soal2
 {
     static String time;
     static int hour;
