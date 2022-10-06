@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653026625 source:c:\users\maval\onedrive\desktop\cpp\vect\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650964697 source:c:\users\maval\onedrive\desktop\pot\main.cpp
+	<stdio.h>
+	<deque>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664452564 source:c:\users\maval\onedrive\desktop\cpp\dsfsdf\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

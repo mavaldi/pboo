@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653005442 source:c:\users\maval\onedrive\desktop\rajan\main.cpp
+	<iostream>
+	<algorithm>
+	<stack>
+
